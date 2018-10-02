@@ -5,7 +5,7 @@ class Hash
       if arguments.include?(value)
         array << key
       end
-  end
+    end
   array
-end
+  end
 end
